@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Jellamae Enguig
+- 🌱 I’m currently learning programming
